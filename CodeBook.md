@@ -14,16 +14,15 @@ The activity_labels.txt contains the desciptive names for each activity label, w
 ## Project Introduction
 The script run_analysis.R uses the data.table package for renaming column and reading in files. It performs 5 major steps including:
 
-1)  Merges the training and the test sets to create one data set.
+1)  Merging the training and the test sets to create one data set.
 
-2)  Extracts only the measurements on the mean and standard deviation for each measurement.
+2)  Extracting only the measurements on the mean and standard deviation for each measurement.
 
-3)  Uses descriptive activity names to name the activities in the data set. Match each number in the y_data column with activity_labels.txt.
+3)  Using descriptive activity names to name the activities in the data set
 
-4)  Appropriately labels the data set with descriptive variable names. Rename the column of y_data and subject_data, instead of using the default name given by R.
+4)  Appropriately labeling the data set with descriptive activity names.
 
-5)  From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
-
+5)  Creating a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 ## Final 'Tidy Data' 
 The final tidy data is produced inside the run_analysis.R and this data is stored as text filed 'tidydata.txt'.
