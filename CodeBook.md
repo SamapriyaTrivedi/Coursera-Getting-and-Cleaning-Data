@@ -1,8 +1,5 @@
 # Coursera - Getting and Cleaning Data
 
-## Course Description
-This course is offered by Johns Hopkins University which covers the basic ways that data can be obtained. The course also covers how to obtain data from the web, from APIs, from databases and from colleagues in various formats. It also covers the basics of data cleaning and how to make data “tidy”. Tidy data dramatically speed downstream data analysis tasks. The course covers the components of a complete data set including raw data, processing instructions, codebooks, and processed data. 
-
 ## Assignment Problem
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis. 
 
